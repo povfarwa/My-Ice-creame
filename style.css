@@ -1,0 +1,96 @@
+body{
+    background-color: #541A1A;
+}
+
+.nav ul{
+    display: flex;
+    gap: 50px;
+    text-align: center;
+    list-style-type: none;  
+    position: absolute;
+    left: 47rem;
+    color: white;
+    font-size: 20px;
+    background-color: ;
+}
+
+
+
+.hero #hero1{
+    position: absolute;
+    left: 67rem;
+    top: 8rem;
+    height: 30rem;
+    width: 50rem;
+}
+
+.hero .text{
+    posiotion: absolute;
+    left: 20rem;
+    top: 50rem;
+
+}
+
+.hero #text{
+    color: white;
+    position: absolute;
+    top: 8.5rem;
+}
+
+.hero #text1{
+    color: white;
+    position: absolute;
+    top: 10.5rem;
+}
+
+.hero #text2{
+    color: white;
+    position: absolute;
+    top: 12.5rem;
+}
+
+.hero #text3{
+    color: white;
+    position: absolute;
+    top: 14.5rem;
+}
+
+.creames #one{
+    height: 200px;
+    width: 190px;
+    position: absolute;
+    top: 50rem;
+    left: 3rem;
+    border-radius: 70px;
+}
+
+.creames #two{
+    height: 200px;
+    width: 190px;
+    position: absolute;
+    top: 50rem;
+    left: 50rem;
+    border-radius: 70px;
+
+}
+
+.creames #three{
+    height: 200px;
+    width: 190px;
+    position: absolute;
+    top: 50rem;
+    left: 100rem;
+    border-radius:70px;
+}
+
+h2{
+    color: white;
+    position: absolute;
+    top: 70rem;
+}
+
+#link{
+    position: absolute;
+    top: 75rem;
+    color: white;
+}
