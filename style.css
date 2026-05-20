@@ -14,6 +14,9 @@ body{
     background-color: ;
 }
 
+.nav ul:hover{
+    color: rgb(255, 200, 0);
+}
 
 
 .hero #hero1{
@@ -22,6 +25,12 @@ body{
     top: 8rem;
     height: 30rem;
     width: 50rem;
+}
+
+.hero #hero1:hover{
+    width: 52rem;
+    height: 32rem;
+    border-radius: 5rem;
 }
 
 .hero .text{
@@ -98,5 +107,11 @@ h2{
 #link2{
     position: absolute;
     top: 80rem;
+    color: white;
+}
+
+.top-btn{
+    position: absolute;
+    top: 85rem;
     color: white;
 }
